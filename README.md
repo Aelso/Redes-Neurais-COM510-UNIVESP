@@ -1,1 +1,1 @@
-# edes-Neurais-COM510-UNIVESP
+# Redes Neurais[COM510][UNIVESP]
